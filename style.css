@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap');
+body{
+    background: url('back.jpg');
+    width: 320px;
+    height: 320px;
+    background-color: rgb(229, 208, 247);
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: inline-flex;
+    margin: auto 15px;
+    font-size: 23px;
+    font-family:'Scheherazade New', serif;;
+    color: saddlebrown;
+    border-radius: 22px;
+    border: 5px solid rgb(230, 96, 7);
+    padding: 10px;
+}
